@@ -8,7 +8,7 @@ app.config.from_pyfile('config.py')
 db = SQLAlchemy(app)
 
 # Initialize babel
-babel = Babel(app, default_domain=Domain())
+babel = Babel(app)
 
 SUPPORTED_LANGUAGES = ['en', 'zh_CN', 'zh_TW']
 

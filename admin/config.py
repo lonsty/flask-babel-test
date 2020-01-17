@@ -6,7 +6,7 @@
 # FLASK_ADMIN_SWATCH = 'cyborg'
 # FLASK_ADMIN_SWATCH = 'darkly' +
 # FLASK_ADMIN_SWATCH = 'default'
-FLASK_ADMIN_SWATCH = 'flatly'
+# FLASK_ADMIN_SWATCH = 'flatly'
 # FLASK_ADMIN_SWATCH = 'fonts'
 # FLASK_ADMIN_SWATCH = 'journal'
 # FLASK_ADMIN_SWATCH = 'lumen'

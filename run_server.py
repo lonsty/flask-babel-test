@@ -10,4 +10,4 @@ if not os.path.exists(database_path):
     build_sample_db()
 
 # Start app
-# app.run(debug=True)
+app.run(host='0.0.0.0', debug=True)
